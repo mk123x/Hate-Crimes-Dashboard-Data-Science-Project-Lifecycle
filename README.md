@@ -6,13 +6,13 @@ The project involved creating an interactive user experience through filters and
 
 Libraries and Tools used:
 
-- **[Streamlit]** – for building the interactive web dashboard  
+- **`streamlit`** – for building the interactive dashboard web app
 
-- **[Pandas]** – for data manipulation and analysis  
+- **`pandas`** – for loading, cleaning, and exploring structured datasets
 
-- **[Matplotlib]** – for visualisations  
+- **`matplotlib`** – for generating visualisations and plots
 
-- **[NumPy]** – for numerical operations
+- **`numpy`** – for numerical operations and supporting data analysis
 
 Content includes my full report and my Streamlit app code.
 
